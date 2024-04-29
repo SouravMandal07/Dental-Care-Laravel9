@@ -50,10 +50,13 @@ CONTACT_FORM_TO="testuser@example.com"
 php artisan test
 ```
 ## Screenshots
-<img src="https://user-images.githubusercontent.com/23532087/159754634-a361b55a-a322-4132-9866-8febd516ae85.png">
-<img src="https://user-images.githubusercontent.com/23532087/159754801-6935fe9b-e5e8-441b-b912-971a760c0000.png">
-<img src="https://user-images.githubusercontent.com/23532087/159754724-f2929e6f-9393-4a86-82d8-2d494cdd2ffe.png">
-<img src="https://user-images.githubusercontent.com/23532087/159754898-cfe1d178-394c-4080-b3ea-9627ee7c9271.png">
-<img src="https://user-images.githubusercontent.com/23532087/159755601-0bdf158b-cad2-4fa9-8a4d-ff58388e4aaa.png">
-<img src="https://user-images.githubusercontent.com/23532087/159755004-ca9c408e-e69e-4c2a-923e-399795f4af01.png">
-<img src="https://user-images.githubusercontent.com/23532087/159755064-26332c1d-9a94-4c79-b157-765d87a2a428.png">
+![dental-1](https://github.com/SouravMandal07/Dental-Care-Laravel9/assets/86459723/d0187428-feed-48cc-8ecd-19a3aadeeff1)
+![dental-2](https://github.com/SouravMandal07/Dental-Care-Laravel9/assets/86459723/61038c88-d165-4374-b319-ca16bab1e15c)
+![dental-3](https://github.com/SouravMandal07/Dental-Care-Laravel9/assets/86459723/a20982b3-1d41-4906-8368-10bfd35b1401)
+![dental-4](https://github.com/SouravMandal07/Dental-Care-Laravel9/assets/86459723/102a6270-884a-415e-a51b-e349621bd066)
+![dental-5](https://github.com/SouravMandal07/Dental-Care-Laravel9/assets/86459723/e6520045-2f4d-4451-8f72-78c8a12766bd)
+![dental-6](https://github.com/SouravMandal07/Dental-Care-Laravel9/assets/86459723/ecc83ab1-b11c-4ff9-be42-ce8173efadce)
+![dental-7](https://github.com/SouravMandal07/Dental-Care-Laravel9/assets/86459723/20a6caa8-3c0b-4259-a6cf-09570f383bba)
+![dental-8](https://github.com/SouravMandal07/Dental-Care-Laravel9/assets/86459723/4a0350d7-583e-4365-85e1-26783b1a0add)
+![dental-9](https://github.com/SouravMandal07/Dental-Care-Laravel9/assets/86459723/e25de822-142e-4ca3-970d-55c8fad542b1)
+
